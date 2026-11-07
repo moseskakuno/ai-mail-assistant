@@ -186,7 +186,7 @@ Building this project provided practical experience with:
 
 ## 👨‍💻 Author
 
-**Moses Kakuno**
+**Moses Ochieng Akuno**
 
 Web Developer | Python | JavaScript | AI Application Development
 
