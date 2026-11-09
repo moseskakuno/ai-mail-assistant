@@ -190,7 +190,18 @@ Building this project provided practical experience with:
 
 Web Developer | Python | JavaScript | AI Application Development
 
-GitHub: [moseskakuno](https://github.com/moseskakuno)
+GitHub: https://github.com/moseskakuno/ai-mail-assistant
+
+A portfolio project demonstrating practical applications of:
+
+- Generative AI
+- OpenAI API Integration
+- Email Classification and Categorization
+- Priority Detection and Sentiment Analysis
+- AI-Powered Text Summarization
+- Automated Reply Drafting
+- Python Application Development
+- Interactive Web Applications with Streamlit
 
 ---
 
